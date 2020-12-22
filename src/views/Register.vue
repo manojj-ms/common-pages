@@ -13,10 +13,10 @@
               </v-toolbar>
               <v-card-text>
                 <v-form>
-                  <v-text-field  name="name" label="Name" type="text"></v-text-field>
-                  <v-text-field  name="email" label="Email" type="text"></v-text-field>
-                  <v-text-field id="password"  name="password" label="Password" type="password"></v-text-field>
-                  <v-text-field id="confirmpassword"  name="cpassword" label="ConfirmPassword" type="password"></v-text-field>
+                  <v-text-field  name="name" label="Name" type="text" outlined></v-text-field>
+                  <v-text-field  name="email" label="Email" type="text" outlined></v-text-field>
+                  <v-text-field id="password"  name="password" label="Password" type="password" outlined></v-text-field>
+                  <v-text-field id="confirmpassword"  name="cpassword" label="ConfirmPassword" type="password" outlined></v-text-field>
                 </v-form>
               </v-card-text>
               <v-card-actions>

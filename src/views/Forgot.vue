@@ -13,7 +13,7 @@
               </v-toolbar>
               <v-card-text>
                 <v-form>
-                  <v-text-field  name="email" label="Email" type="text"></v-text-field>
+                  <v-text-field  name="email" label="Email" type="text" outlined></v-text-field>
                 </v-form>
               </v-card-text>
               <v-card-actions>
